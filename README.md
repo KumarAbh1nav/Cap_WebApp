@@ -1,2 +1,2 @@
 # Cap_WebApp
-Deploying Web Applicatioin using DevOps Tools
+Deploying Web Applications using DevOps Tools
